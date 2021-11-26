@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nested-nav/static/css/main.662d73f0.chunk.css",
+    "main.js": "/Nested-nav/static/js/main.8e067a07.chunk.js",
+    "main.js.map": "/Nested-nav/static/js/main.8e067a07.chunk.js.map",
+    "runtime-main.js": "/Nested-nav/static/js/runtime-main.58f43572.js",
+    "runtime-main.js.map": "/Nested-nav/static/js/runtime-main.58f43572.js.map",
+    "static/js/2.61c1c973.chunk.js": "/Nested-nav/static/js/2.61c1c973.chunk.js",
+    "static/js/2.61c1c973.chunk.js.map": "/Nested-nav/static/js/2.61c1c973.chunk.js.map",
+    "index.html": "/Nested-nav/index.html",
+    "static/css/main.662d73f0.chunk.css.map": "/Nested-nav/static/css/main.662d73f0.chunk.css.map",
+    "static/js/2.61c1c973.chunk.js.LICENSE.txt": "/Nested-nav/static/js/2.61c1c973.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f43572.js",
+    "static/js/2.61c1c973.chunk.js",
+    "static/css/main.662d73f0.chunk.css",
+    "static/js/main.8e067a07.chunk.js"
+  ]
+}
